@@ -11,7 +11,8 @@ disableKinds = ["taxonomy", "term"]
      { link = { href = "https://dani.builds.terrible.systems", text = "Blog" } },
      { github = "https://github.com/endocrimes" },
      { mastodon = "https://toot.cat/@endocrimes" },
-     { instagram = "https://www.instagram.com/endocrimes" }
+     { instagram = "https://www.instagram.com/endocrimes" },
+     { email = "mailto:dani@builds.terrible.systems" }
   ]
 
 [Params]
