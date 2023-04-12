@@ -1,0 +1,25 @@
+title = "Danielle Lancashire"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Danielle Lancashire"
+  headline = "Software Engineer & Photographer"
+  image = "author.png"
+  links = [
+     { link = { href = "https://dani.builds.terrible.systems", text = "Blog" } },
+     { github = "https://github.com/endocrimes" },
+     { mastodon = "https://toot.cat/@endocrimes" },
+     { instagram = "https://www.instagram.com/endocrimes" }
+  ]
+
+[Params]
+attribution = false
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
